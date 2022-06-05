@@ -1,3 +1,3 @@
 install:
-	apt-get update &&\
-		xargs -a requirements.txt apt-get install
+	sudo apt-get update &&\
+		xargs -a requirements.txt sudo apt-get install
