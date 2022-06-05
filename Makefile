@@ -6,5 +6,5 @@ save-file:
 	git config --local user.email "actions@github.com" &&\
 		git config --local user.name "GitHub Actions" &&\
 		git add --all &&\
-		git commit -am "add data" &&\
+		git commit -am "Update data" &&\
 		git push
