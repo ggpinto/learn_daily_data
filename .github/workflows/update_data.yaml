@@ -27,4 +27,5 @@ jobs:
         run: Rscript script/collect_data.R
 
       - name: Push data to Github
-        run: bash src/github.sh
+        run: |
+          make save-file

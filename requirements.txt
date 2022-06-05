@@ -1,2 +1,4 @@
+libcurl4-openssl-dev
+libssl-dev
 libicu-dev
 make
