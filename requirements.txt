@@ -1,4 +1,8 @@
+git
 libcurl4-openssl-dev
 libssl-dev
+libsodium-dev
 libicu-dev
 make
+zlib1g-dev
+libgit2-dev

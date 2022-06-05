@@ -1,0 +1,8 @@
+file: collected_data.qs
+file_size: 39378
+pin_hash: 15b3d7f3336cbdb6
+type: qs
+title: 'collected_data: a pinned 2652 x 10 data frame'
+description: ~
+created: 20220605T212034Z
+api_version: 1.0

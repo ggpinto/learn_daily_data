@@ -1,0 +1,9 @@
+file: cars_mpg.rds
+file_size: 9643
+pin_hash: c2811e5094a5241a
+type: rds
+title: 'cars_mpg: a pinned list'
+description: A lm regression modeling workflow
+created: 20220605T213207Z
+api_version: 1.0
+user: []

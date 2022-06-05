@@ -65,7 +65,6 @@ jobs:
             docker rm $(echo $IMAGE_NAME)
             # Run a new container from a new image
             docker run --rm \
-            -e PASSWORD=${{ secrets.R_STUDIO_PASSWORD }} \
-            -p 8787:8787 \
+            -p 8000:8000 \
             --name $(echo $IMAGE_NAME) \
             $(echo $REGISTRY)/$(echo $IMAGE_NAME):$(echo $GITHUB_SHA | head -c7)
