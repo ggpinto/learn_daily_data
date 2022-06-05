@@ -1,1 +1,1 @@
-FROM rocker/r-ver:4.2
+FROM debian:stable
