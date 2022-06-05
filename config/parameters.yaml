@@ -1,0 +1,2 @@
+api:
+  url: https://opendata.muenchen.de/api/3/action/datastore_search?resource_id=0b6fe83d-4bf9-4789-9752-a3aefb073020&limit=999999
